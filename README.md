@@ -1,5 +1,5 @@
 # MF DOOM Album API
-An API that serves data about the albums made my recording artist MF DOOM. 
+An API that serves data about the albums made by recording artist MF DOOM. 
 
 **Link to project:** https://mfdoom.onrender.com
 
