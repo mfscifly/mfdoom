@@ -18,6 +18,10 @@ app.get('/api/:title', (req, res) => {
     }
 })
 
+app.get('/style.css', (req, res) => {
+    res.sendFile(__dirname + '/style.css')
+})
+
 app.listen(process.env.PORT || PORT, () => {
     console.log(`Server running on ${PORT}, betta go catch it!`);
 });
