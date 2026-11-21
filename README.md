@@ -1,5 +1,5 @@
 # MF DOOM Album API
-An API that serves data about the albums made by recording artist MF DOOM. 
+My first API: it serves data about the albums made by recording artist MF DOOM.
 
 **Link to project:** https://mfdoom.onrender.com
 
@@ -17,13 +17,10 @@ If I had more time I would add more data to the API, like collaboration albums a
 
 Using Express and Node.js to build a back end CRUD server. 
 
-## Examples:
-Take a look at these other projects:
+## More of my work:
 
-**Sumas Prairie Gas Tools:** https://github.com/mfscifly/sumas-prairie-gas-calculator
+**Gas Run:** https://github.com/mfscifly/gas-run
 
-**Portfolio:** https://github.com/mfscifly/portfolio
+**Windowsill:** https://github.com/mfscifly/windowsill
 
 **Codewars:** https://github.com/mfscifly/codewars
-
-
